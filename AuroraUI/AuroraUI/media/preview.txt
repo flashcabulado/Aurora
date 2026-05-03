@@ -1,0 +1,40 @@
+AuroraUI — Premium Roblox UI Library
+
+Visual Style: iOS / Apple / VisionOS / Glassmorphism
+Platform: PC and Mobile
+Version: 1.0.0
+
+Components:
+- Window with header, sidebar, content, footer
+- Tab navigation with group labels
+- Sections with title and description
+- Buttons with ripple effect
+- iOS-style toggle switches
+- Gradient-filled sliders
+- Animated dropdown menus
+- Keybind listeners
+- Text input fields
+- Toast notification system
+- Separator dividers
+- Floating pill minimize button
+
+Visual Features:
+- Rounded corners (18px window, 12px components)
+- Noise texture overlay for glass effect
+- UIGradient accents and surfaces
+- Drop shadow with gradient transparency
+- UIStroke borders with low opacity
+- Glow on active toggle
+- Ripple click animation
+- Smooth TweenService transitions
+- Fade + scale window open/close
+- Sidebar indicator on active tab
+
+Default Palette:
+  Background:       rgb(12, 14, 20)
+  Surface:          rgb(20, 24, 34)
+  Card:             rgb(28, 34, 46)
+  Accent:           rgb(124, 92, 255)
+  AccentSecondary:  rgb(0, 212, 255)
+  Text:             rgb(245, 247, 250)
+  Subtext:          rgb(150, 160, 175)
